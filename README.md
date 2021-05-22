@@ -1,8 +1,7 @@
 # 한림대학교 소프트웨어융합대학
 ---
-
-김정현   
-<img src=김정현.jpg height=150 width=100>
+<img src=김정현.jpg height=150 width=100>   
+**김정현**
 
 ---
 
@@ -27,4 +26,10 @@
 |---|---|---|
 |C 프로그래밍|C언어 개요|3|
 |JAVA 프로그래밍|JAVA 개요|3|
-|소프트웨어 세미나1|최신 소프트웨어 트랜드|1|
+|소프트웨어 세미나1|최신 소프트웨어 트랜드|1|   
+
+github address: [junghyonk][github]   
+
+[github]:http://github.com/junghyonk
+
+
