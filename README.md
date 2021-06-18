@@ -20,6 +20,10 @@
 4.PYTHON
 5.R
 
+----
+자격증:
+TOEIC: 900
+MOS EXPERT:EXCCEL,WORD
 
 -------------
 현재 개발중인 사이트:  
