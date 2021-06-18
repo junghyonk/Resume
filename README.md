@@ -14,10 +14,11 @@
 
 
 프로그래밍 언어 스킬   
-1.C   
+1.JAVASCRIPT  
 2.JAVA   
-3.PYTHON    
-4.R   
+3.SQL    
+4.PYTHON
+5.R
 
 
 -------------
