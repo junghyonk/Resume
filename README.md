@@ -1,7 +1,7 @@
 # 신입지원자 Entry Level Position
 ---
 <img src=김정현.jpg height=150 width=100>   
- 김정현
+ 김정현  
 ---  
 학교: 한림대학교
 소속 : 글로벌학부 & 소프트웨어융합대학   
