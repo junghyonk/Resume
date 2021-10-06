@@ -10,7 +10,7 @@ Name: Jung Hyon Kim
 
 Interests:* SW 개발 & WEB 
 
-Confident Programming Langauges: 
+Confident Programming Langauges: <br>
 1.JAVA  
 2.Javascript
 3.SQL    
