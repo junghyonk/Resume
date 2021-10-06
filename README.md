@@ -10,12 +10,12 @@ Name: Jung Hyon Kim
 소속 : 글로벌학부 & 소프트웨어융합대학   
 주 전공:정보법과학 복수전공:빅데이터 
 
-Interests:* SW 개발 & WEB 
+Interests:  * SW 개발 & WEB 
 
 Confident Programming Langauges: 
 <br>
 1.JAVA  
-2.Javascript
+2.Javascript  
 3.SQL    
 
 ----
