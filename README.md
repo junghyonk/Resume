@@ -1,9 +1,9 @@
 # 신입지원자 Entry Level Position
 ---
 <img src=김정현.jpg height=150 width=100>   
-<br>
+  
 이름:김정현
-<br>
+  
 Name: Jung Hyon Kim
 ---
 학교: 한림대학교
@@ -15,9 +15,7 @@ Interests:* SW 개발 & WEB
 Confident Programming Langauges: 
 <br>
 1.JAVA  
-<br>
 2.Javascript
-<br>
 3.SQL    
 
 ----
