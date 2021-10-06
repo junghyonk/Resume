@@ -1,16 +1,14 @@
 # 신입지원자 Entry Level Position
 ---
 <img src=김정현.jpg height=150 width=100>   
-  
-이름:김정현
-  
-Name: Jung Hyon Kim
+ 김정현
 ---
 학교: 한림대학교
 소속 : 글로벌학부 & 소프트웨어융합대학   
 주 전공:정보법과학 복수전공:빅데이터 
 
-Interests:  * SW 개발 & WEB 
+Interests:  
+*SW 개발 & WEB 
 
 Confident Programming Langauges: 
 <br>
