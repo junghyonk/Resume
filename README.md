@@ -33,7 +33,7 @@ MOS EXPERT:EXCCEL,WORD
 
 ----
 Graduation Project:  
-http://52.79.205.43:8080/movie_design/index.do  <-Link to the site   
+http://3.36.176.102:8080/movie_design/index.do  <-Link to the site   
 https://github.com/junghyonk/capstone_design/blob/master/README.md
 
 Test Projects:
